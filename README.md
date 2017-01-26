@@ -1,8 +1,2 @@
 # ocean
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-
-http://github.com - automatic!
-[GitHub](http://github.com)
+![Image of Conan](http://www.topkool.com/fr/wp-content/uploads/2013/01/detective-conan-009.jpg)
